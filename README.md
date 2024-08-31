@@ -10,5 +10,6 @@ Check out the Numpy.iynb file provided for the full report.
 <br>
 <br>
 Madeby:
-Venkata Ananya Yerrapragada
+Venkata Ananya Yerrapragada 
+<br>
 Linked in:  www.linkedin.com/in/venkata-ananya-yerrapragada-29299b2b8/
